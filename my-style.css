@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image:url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0127/5823/RoseQuartz_shop_preview.png");
+    color:darkslategrey;
+}
+
+a {
+    color: darkslategray;
+}
+
+a:hover {
+    color:palevioletred;
+}
+
